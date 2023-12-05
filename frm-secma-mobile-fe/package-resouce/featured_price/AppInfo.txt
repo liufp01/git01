@@ -1,0 +1,12 @@
+App-ID:featured.price.yonyou.com
+App-Name:标准价格
+App-Name-Tw:标准价格
+App-Name-En:Standby Center
+Device-Type:phone
+Supplier-Name-CN:
+Supplier-Name-EN:
+Supplier-Email:
+Supplier-Phone-Number:
+Supplier-Website:
+Supplier-Profile:
+Supplier-Type:

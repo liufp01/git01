@@ -1,0 +1,12 @@
+App-ID:personal_deposits.deposits.yonyou.com
+App-Name:对私存款
+App-Name-Tw:对私存款
+App-Name-En:Standby Center
+Device-Type:phone
+Supplier-Name-CN:
+Supplier-Name-EN:
+Supplier-Email:
+Supplier-Phone-Number:
+Supplier-Website:
+Supplier-Profile:
+Supplier-Type:

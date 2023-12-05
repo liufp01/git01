@@ -1,0 +1,33 @@
+.block-title .van-cell--clickable{
+  background-color: #F0F0F5!important;
+}
+
+.block-title .van-collapse-item__content{
+  padding: 0 !important;
+}
+.block-title .van-button{
+  height: 62px!important;
+  line-height: 62px!important;
+  border:none;
+  font-size: 15px;
+}
+
+.money-input .md-field-item{
+  width: 100%;
+}
+.money-input .md-input-item-input{
+  width: 100%;
+  flex: 12;
+  border: none;
+  text-align: right;
+  padding-right: 26px;
+  word-break: break-word;
+  text-overflow: ellipsis;
+  padding-right: 16px;
+}
+.money-input .md-input-item-input input placeholder {
+  font-size: 15px;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: rgba(204, 204, 204, 1);
+}

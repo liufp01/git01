@@ -1,0 +1,7 @@
+Version:0.11
+Update-Date:
+Download-URL:
+Destination-URL:
+Belonging-System:
+Login-Mode:
+Ma-URL:

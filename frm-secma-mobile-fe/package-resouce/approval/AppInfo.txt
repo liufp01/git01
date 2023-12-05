@@ -1,0 +1,12 @@
+App-ID:price.approve.yonyou.com
+App-Name:ÉóÅú
+App-Name-Tw:ÉóÅú
+App-Name-En:Standby Center
+Device-Type:phone
+Supplier-Name-CN:
+Supplier-Name-EN:
+Supplier-Email:
+Supplier-Phone-Number:
+Supplier-Website:
+Supplier-Profile:
+Supplier-Type:
